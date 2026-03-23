@@ -1,0 +1,4 @@
+# Local Thai translation cache (generated at runtime)
+translation_cache.json
+# Atomic save temp file from any -cache path ending in .json
+*.json.tmp
